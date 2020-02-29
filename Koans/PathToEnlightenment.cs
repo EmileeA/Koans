@@ -15,6 +15,7 @@ namespace DotNetCoreKoans.Koans
 				typeof(AboutStrings),
                 typeof(AboutFloats),
 	            typeof(AboutDecimals),
+                // stop here
 				typeof(AboutInheritance),
                 typeof(AboutMethods),
                 typeof(AboutControlStatements),
